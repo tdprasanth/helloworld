@@ -8,8 +8,7 @@
 2014-08-27 07:12:50 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 200 0 22 25 1579 5455262
 2014-08-27 07:12:50 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 200 0 22 25 1579 5394612
 2014-08-27 07:12:50 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 200 0 22 25 1603 5225647
-2014-08-27 07:12:50 W3SVC1234 OPS01DCC02V 127.0.0.1 POST /ConfigurationSDA/Service.svc - 81 - 127.0.0.1 HTTP/1.1 - - - sharedwebservices:81 200 0 64 25 1512 5405033
-2014-08-27 07:22:51 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 500 0 22 25 2024 5755696
+2014-08-27 07:22:51 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1  - nasasharedwebservices:81 500 0 22 25 2024 5755696
 2014-08-27 07:22:51 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 200 0 22 25 596 5675908
 2014-08-27 07:22:51 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 200 0 22 25 1611 5602495
 2014-08-27 07:22:51 W3SVC1234 OPS01DCC02V 172.25.41.215 POST /DeliveryService.Nasa/DeliverySvcContract.Nasa.svc - 81 - 172.25.41.222 HTTP/1.1 - - - nasasharedwebservices:81 200 0 22 25 1587 5542470
